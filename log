@@ -1,0 +1,25 @@
+[33mcommit d11037762f0e3824695e4206b79d4fe837007d6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Alejandro El Harchi Argüelles <UO306469@uniovi.es>
+Date:   Thu Sep 17 10:04:11 2026 +0200
+
+    Nuevo programa de python
+
+[33mcommit 010a5ede078ccf348043d6b3dbaff185b60ae366[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mrama-harchi[m[33m)[m
+Author: Nicolás Pérez <uo306041@uniovi.es>
+Date:   Thu Sep 17 09:59:40 2026 +0200
+
+    feat: Add basic GitHub guide to README
+    
+    Added a comprehensive guide covering Git and GitHub basics, including repositories, branches, commits, pull requests, and synchronization.
+
+[33mcommit 3585bbc6c93917577faae449b21bfbfd3c011f11[m
+Author: Nicolás Pérez <uo306041@uniovi.es>
+Date:   Thu Sep 17 09:59:20 2026 +0200
+
+    Delete Guia_GIT.md
+
+[33mcommit 4db59e9ab64f1c46d349174e993eb6628c302c46[m
+Author: Nicolás Pérez Fernández <UO306041@uniovi.es>
+Date:   Thu Sep 17 09:56:37 2026 +0200
+
+    docs: Subida guia de uso de GIT
