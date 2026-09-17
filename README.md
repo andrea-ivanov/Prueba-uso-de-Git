@@ -5,6 +5,7 @@ Esta guía cubre los conceptos esenciales para empezar a trabajar con Git y GitH
 ## 📌 Conceptos básicos
 
 Para descargar una copia local de un repositorio existente:
+diowhaduiwhauidhwauidhwuiahduiwahuidwa
 
 ```bash
 git clone https://github.com/usuario/repositorio.git
