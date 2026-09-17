@@ -4,14 +4,8 @@ Esta guía cubre los conceptos esenciales para empezar a trabajar con Git y GitH
 
 ## 📌 Conceptos básicos
 
-- **Repositorio (repo):** carpeta de tu proyecto donde Git rastrea los cambios de los archivos.
-- **Commit:** una "foto" guardada de los cambios realizados, con un mensaje descriptivo.
-- **Rama (branch):** una línea de desarrollo independiente dentro del repositorio.
-- **Remoto (remote):** la versión del repositorio alojada en GitHub (normalmente llamada `origin`).
-
-## 🚀 Clonar un repositorio
-
 Para descargar una copia local de un repositorio existente:
+diowhaduiwhauidhwauidhwuiahduiwahuidwa
 
 ```bash
 git clone https://github.com/usuario/repositorio.git
