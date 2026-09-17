@@ -7,7 +7,7 @@ Esta guía cubre los conceptos esenciales para empezar a trabajar con Git y GitH
 | Nombre | GitHub |
 |---|---|
 | Nombre Apellido 1 | <a href="https://github.com/Alejandrorr572" target="_blank" rel="noopener noreferrer"><span style="background:#1E90FF;color:#fff;padding:6px 10px;border-radius:5px;display:inline-block;text-decoration:none;">Alejandrorr572</span></a> |
-| Nombre Apellido 2 | <a href="https://github.com/Harchi18" target="_blank" rel="noopener noreferrer"><span style="background:#28A745;color:#fff;padding:6px 10px;border-radius:5px;display:inline-block;text-decoration:none;">Harchi18 </span></a> |
+| Alejandro El Harchi Argüelles | <a href="https://github.com/Harchi18" target="_blank" rel="noopener noreferrer"><span style="background:#28A745;color:#fff;padding:6px 10px;border-radius:5px;display:inline-block;text-decoration:none;">Harchi18 </span></a> |
 | Nombre Apellido 3 | <a href="https://github.com/nicooprezz" target="_blank" rel="noopener noreferrer"><span style="background:#FF6347;color:#fff;padding:6px 10px;border-radius:5px;display:inline-block;text-decoration:none;">nicooprezz </span></a> |
 | Andrea Ivanov | <a href="https://github.com/andrea-ivanov" target="_blank" rel="noopener noreferrer"><span style="background:#5F9EA0;color:#fff;padding:6px 10px;border-radius:5px;display:inline-block;text-decoration:none;">andrea-ivanov</span></a> |
 | Profesor | <a href="https://github.com/EnriqueJRodriguez" target="_blank" rel="noopener noreferrer"><span style="background:#000000;color:#fff;padding:6px 10px;border-radius:5px;display:inline-block;text-decoration:none;">EnriqueJRodriguez</span></a> |
